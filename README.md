@@ -16,7 +16,10 @@ NGSIM(in).csv: The source data for vehicle trajectory pairs (Leader vs. Follower
 PythonCodeFinal.ipynb: The main Jupyter Notebook containing all python code for analysis and simulation code.
 FinalAnnotatedCodeDocument_Project3_MacyDubes.pdf: A breakdown of the python code and what the code does.
 ScopeOfWork.pdf: Project planning documents.
-Gantt Chart/Timesheet: Sheet to track progress and when tasks will get done.
+Gantt Chart: Excel sheet to track when tasks will get done. (The original gantt chart I turned in was correct, however the project start changed to update to today but before it was correct. Right now my microsoft account is not working and I am in the process of getting it fixed however when I tried to edit the excel sheet to update it 
+my screen slowly started going black and I had to restart. I am not able to edit microsoft excels right now however the original one I turned in had the correct dates
+but I cannot access it. I still uploaded one but am not sure how it looks.)
+Timesheet: Sheet to track progress and tasks got done and how long it took.
 
 User Guide: Running the Analysis
 To replicate this analysis, follow these steps within the Jupyter Notebook environment:
